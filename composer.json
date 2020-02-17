@@ -1,9 +1,9 @@
 {
-    "name": "eclyptox/sylius-better-seo-plugin",
+    "name": "oxyshop/sylius-better-seo-plugin",
     "type": "sylius-plugin",
     "keywords": ["sylius", "sylius-plugin"],
     "description": "Support for SEO metadata on products",
-    "license": "MIT",
+    "license": "proprietary",
     "require": {
         "php": "^7.2",
         "sylius/sylius": "^1.4"
